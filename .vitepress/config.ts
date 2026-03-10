@@ -5,7 +5,7 @@ export default defineConfig({
   description: '深入剖析 CrewAI —— 多 Agent 协作编排框架',
   lang: 'zh-CN',
 
-  base: '/crewai-book/',
+  base: '/',
 
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/crewai-book/favicon.svg' }],
