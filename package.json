@@ -1,0 +1,26 @@
+{
+  "name": "crewai-book",
+  "version": "1.0.0",
+  "description": "深入剖析 CrewAI —— 多 Agent 协作编排框架源码解析",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolclaws/crewai-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coolclaws/crewai-book/issues"
+  },
+  "homepage": "https://github.com/coolclaws/crewai-book#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "type": "module"
+}

@@ -1,0 +1,26 @@
+<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="crew-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#dc2626"/>
+    </linearGradient>
+  </defs>
+  <!-- Central hub -->
+  <circle cx="60" cy="60" r="18" fill="url(#crew-gradient)"/>
+  <!-- Agent nodes -->
+  <circle cx="60" cy="20" r="12" fill="url(#crew-gradient)" opacity="0.9"/>
+  <circle cx="95" cy="45" r="12" fill="url(#crew-gradient)" opacity="0.9"/>
+  <circle cx="95" cy="85" r="12" fill="url(#crew-gradient)" opacity="0.9"/>
+  <circle cx="60" cy="105" r="12" fill="url(#crew-gradient)" opacity="0.9"/>
+  <circle cx="25" cy="85" r="12" fill="url(#crew-gradient)" opacity="0.9"/>
+  <circle cx="25" cy="45" r="12" fill="url(#crew-gradient)" opacity="0.9"/>
+  <!-- Connections -->
+  <line x1="60" y1="32" x2="60" y2="42" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="84" y1="49" x2="76" y2="53" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="84" y1="81" x2="76" y2="72" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="60" y1="93" x2="60" y2="78" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="36" y1="81" x2="44" y2="72" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="36" y1="49" x2="44" y2="53" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Center icon: crew symbol -->
+  <path d="M55 56 L60 52 L65 56 L65 64 L60 68 L55 64Z" fill="white" opacity="0.9"/>
+</svg>
