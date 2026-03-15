@@ -17,7 +17,7 @@ export default defineConfig({
   ],
 
   themeConfig: {
-    logo: { src: '/logo.svg', alt: 'CrewAI' },
+    logo: { src: '/logo.png', alt: 'CrewAI' },
 
     nav: [
       { text: '开始阅读', link: '/chapters/01-overview' },
